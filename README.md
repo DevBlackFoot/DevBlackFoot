@@ -1,4 +1,5 @@
-### Hi there 👋
+### 게임 개발을 공부하는 정재현입니다
+## 게임 인재원 교육에서 진행한 각종 프로젝트 코드를 위주로 올리고 있습니다.
 
 <!--
 **DevBlackFoot/DevBlackFoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
